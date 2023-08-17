@@ -1,2 +1,4 @@
-my_string = "i am learning python"
-print(my_string.upper())
+def capital_letters():
+    print("i am learning python".upper())
+
+one_function()
